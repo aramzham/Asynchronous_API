@@ -4,3 +4,7 @@ Content-Type: application/json
 {
   "RequestId":"{{$random.uuid}}"
 }
+
+###
+
+GET https://localhost:7205/api/productstatus/A7B8E81E-0889-4AF1-849F-91B60B4D6168
