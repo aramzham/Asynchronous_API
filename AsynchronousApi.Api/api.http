@@ -1,0 +1,6 @@
+﻿POST https://localhost:7205/api/products
+Content-Type: application/json
+
+{
+  "RequestId":"{{$random.uuid}}"
+}
